@@ -2,3 +2,4 @@ flask
 pickle-mixin
 gunicorn
 python-decouple
+scikit-learn
